@@ -29,7 +29,7 @@ Task Manager is a SwiftUI 5 application for iOS 18 that helps users efficiently 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/task-manager-ios.git
+   git clone https://github.com/venbadya9/TaskManager
    ```
 2. Open `TaskManager.xcodeproj` in Xcode 15.
 3. Run the project on an iOS 18 simulator or device.
